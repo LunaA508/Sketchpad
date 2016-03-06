@@ -37,31 +37,13 @@ button {
 	margin-right: auto;
 }
 
-.bordered{
-	height: 60px;
-	width: 60px;
-	display: table-cell;
-	border: 1px solid white;
-	background-color: #000;
-}
-
-.hover {
-	height: 60px;
-	width: 60px;
-	display: table-cell;
-	background-color: #FFF;
-	opacity: 1;
-	border: 1px solid black;
-	margin: 0;
-	padding: 0;
-}
-
 .newgrid {
 	display: table-cell;
 	border: 1px solid white;
 	background-color: #000;
 	margin: 0;
 	padding: 0;
+	opacity: 1;
 }
 
 .buttons {
