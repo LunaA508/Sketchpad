@@ -14,5 +14,6 @@ The Assignment was to make a cross between a sketchpad and an etch-a-sketch usin
 * User can also start a new grid and change the number of blocks in the new grid 
 
 
+[Link to README on GitHub Pages](https://lunaa508.github.io/Sketchpad/)
 
 [Link to Sketchpad](sketchpad.html) 
