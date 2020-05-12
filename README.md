@@ -8,10 +8,10 @@ The Assignment was to make a cross between a sketchpad and an etch-a-sketch usin
 * Start with a 16 x 16 grid
 * Start with a default fill of white
 * User will hover over area to fill
+* User can also start a new square grid and set the number of rows/columns
 * Include options to change fill:
-	* Includes randmom RGB Fill
+	* Includes randmom rgb fill
 	* Includes grayscale fill
-* User can also start a new grid and change the number of blocks in the new grid 
 
 
 [Link to README on GitHub Pages](https://lunaa508.github.io/Sketchpad/)
